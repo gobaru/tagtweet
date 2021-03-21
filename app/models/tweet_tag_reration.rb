@@ -1,2 +1,0 @@
-class TweetTagReration < ApplicationRecord
-end
